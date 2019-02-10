@@ -4,7 +4,7 @@ Version: 0.110
 Maintainer: Fredrik Fornwall @fornwall
 Installed-Size: 220
 Depends: libdbus, glib
-Filename: dists/x11/main/binary-arm/dbus-glib_0.110_arm.deb
+Filename: dists/x11-stable/main/binary-arm/dbus-glib_0.110_arm.deb
 Size: 55716
 MD5sum: 12c29481bd84597842b42a0a7a4de615
 SHA1: b62a267480630c6fefc1255d032b733f86f3e26d
@@ -19,7 +19,7 @@ Version: 2.30.7
 Maintainer: lokesh @hax4us
 Installed-Size: 996
 Depends: gtk2, startup-notification
-Filename: dists/x11/main/binary-arm/libwnck_2.30.7_arm.deb
+Filename: dists/x11-stable/main/binary-arm/libwnck_2.30.7_arm.deb
 Size: 115964
 MD5sum: 4f65551dcbfe0b4689fea78dd4235838
 SHA1: 68bbdc3e6ddcb7fe13999a3b7874cea3a233696f
@@ -34,7 +34,7 @@ Version: 3.2.0
 Maintainer: lokesh @hax4us
 Installed-Size: 928
 Depends: gtk2, gtk3
-Filename: dists/x11/main/binary-arm/gtk-xfce-engine_3.2.0_arm.deb
+Filename: dists/x11-stable/main/binary-arm/gtk-xfce-engine_3.2.0_arm.deb
 Size: 50900
 MD5sum: 1346d75620076f9e3a123fcbad617b3e
 SHA1: f4fc77a4ddb466055226c2189b9c69279a986674
@@ -49,7 +49,7 @@ Version: 1.0.9
 Maintainer: lokesh @hax4us
 Installed-Size: 84
 Depends: libx11
-Filename: dists/x11/main/binary-arm/xorg-xmodmap_1.0.9_arm.deb
+Filename: dists/x11-stable/main/binary-arm/xorg-xmodmap_1.0.9_arm.deb
 Size: 15848
 MD5sum: 1a3d740297115dffb0fb0eb96214ed95
 SHA1: f58519d83695b2df41501eac599d1574e90d9682
@@ -64,7 +64,7 @@ Version: 1.4.0
 Maintainer: lokesh @hax4us
 Installed-Size: 96
 Depends: xorg-xrdb, xorg-xmodmap, inetutils, xorg-iceauth, libx11
-Filename: dists/x11/main/binary-arm/xorg-xinit_1.4.0_arm.deb
+Filename: dists/x11-stable/main/binary-arm/xorg-xinit_1.4.0_arm.deb
 Size: 11368
 MD5sum: fa76a74b24ac2a3afafddfa811a8301a
 SHA1: 5b16f2984fbed6e7a69b45568501d0daaf58173a
@@ -79,7 +79,7 @@ Version: 4.12.5
 Maintainer: lokesh @hax4us
 Installed-Size: 5032
 Depends: libxfce4ui, libwnck, xfconf, startup-notification
-Filename: dists/x11/main/binary-arm/xfwm4_4.12.5_arm.deb
+Filename: dists/x11-stable/main/binary-arm/xfwm4_4.12.5_arm.deb
 Size: 423880
 MD5sum: 00881c07b9b9d273fe9ab8070b2cca3c
 SHA1: 0b02ea1b94381c7cf48c0adaff63bfff6fd5b25c
@@ -94,7 +94,7 @@ Version: 0.12.2
 Maintainer: lokesh @hax4us
 Installed-Size: 308
 Depends: exo
-Filename: dists/x11/main/binary-arm/exo-dev_0.12.2_arm.deb
+Filename: dists/x11-stable/main/binary-arm/exo-dev_0.12.2_arm.deb
 Size: 13572
 MD5sum: 7f0577bf2b9df9372a6921d6dd125a71
 SHA1: 179187a17f453ec942aa253de7e03e52b19474b6
@@ -109,7 +109,7 @@ Version: 4.12.1
 Maintainer: lokesh @hax4us
 Installed-Size: 2636
 Depends: libwnck, libxfce4ui, libsm, xorg-iceauth, xorg-xinit, xorg-xrdb
-Filename: dists/x11/main/binary-arm/xfce4-session_4.12.1_arm.deb
+Filename: dists/x11-stable/main/binary-arm/xfce4-session_4.12.1_arm.deb
 Size: 579096
 MD5sum: 6e1c21525ef9c961a74175ec5f5b80d7
 SHA1: 278a40c3d1c660f33458f6afe04ede279c2b1e8f
@@ -124,7 +124,7 @@ Version: 0.7.1
 Maintainer: lokesh @hax4us
 Installed-Size: 2696
 Depends: librsvg, libxklavier, xfce4-panel
-Filename: dists/x11/main/binary-arm/xfce4-xkb-plugin_0.7.1_arm.deb
+Filename: dists/x11-stable/main/binary-arm/xfce4-xkb-plugin_0.7.1_arm.deb
 Size: 405756
 MD5sum: e404a0ece65eac88e589c9d322fe4f09
 SHA1: 858e516781e3e0e55a2002449fbf5bbb41eadfe2
@@ -139,7 +139,7 @@ Version: 4.12.1
 Maintainer: lokesh @hax4us
 Installed-Size: 224
 Depends: libxfce4ui
-Filename: dists/x11/main/binary-arm/libxfce4ui-dev_4.12.1_arm.deb
+Filename: dists/x11-stable/main/binary-arm/libxfce4ui-dev_4.12.1_arm.deb
 Size: 5988
 MD5sum: a30fd7bfbcb064ed461c13739726e241
 SHA1: a0f92fe041232f0db6981d029ea566ce42bb23b1
@@ -154,7 +154,7 @@ Version: 2.30.7
 Maintainer: lokesh @hax4us
 Installed-Size: 124
 Depends: libwnck
-Filename: dists/x11/main/binary-arm/libwnck-dev_2.30.7_arm.deb
+Filename: dists/x11-stable/main/binary-arm/libwnck-dev_2.30.7_arm.deb
 Size: 9852
 MD5sum: cd03d35213d9c6a5d1e32f670899fd97
 SHA1: 1bf1a18df1038bb87d80518f151bc7566639c218
@@ -169,7 +169,7 @@ Version: 4.12.2
 Maintainer: lokesh @hax4us
 Installed-Size: 260
 Depends: xfce4-panel
-Filename: dists/x11/main/binary-arm/xfce4-panel-dev_4.12.2_arm.deb
+Filename: dists/x11-stable/main/binary-arm/xfce4-panel-dev_4.12.2_arm.deb
 Size: 13796
 MD5sum: 9aff90b7526455b1b8693e8e810f7f6b
 SHA1: abd822961c910c0bcc7e9d43144aa648dbebb0bb
@@ -184,7 +184,7 @@ Version: 4.12.1
 Maintainer: lokesh @hax4us
 Installed-Size: 960
 Depends: glib
-Filename: dists/x11/main/binary-arm/libxfce4util_4.12.1_arm.deb
+Filename: dists/x11-stable/main/binary-arm/libxfce4util_4.12.1_arm.deb
 Size: 60308
 MD5sum: 8f38fb508c4976a0c417cc4bda32c1b2
 SHA1: 3ecb36208f3b13ba7f86d974debe8df1c503ead2
@@ -199,7 +199,7 @@ Version: 1.8.2
 Maintainer: lokesh @hax4us
 Installed-Size: 124
 Depends: thunar
-Filename: dists/x11/main/binary-arm/thunar-dev_1.8.2_arm.deb
+Filename: dists/x11-stable/main/binary-arm/thunar-dev_1.8.2_arm.deb
 Size: 6688
 MD5sum: bc981b96f018b3d67ec955512f2aa450
 SHA1: a0cf2187e746ef9609e3a2f6374561724aca908f
@@ -214,7 +214,7 @@ Version: 4.12.4
 Maintainer: lokesh @hax4us
 Installed-Size: 2712
 Depends: exo, libwnck, libxfce4ui, thunar, startup-notification
-Filename: dists/x11/main/binary-arm/xfdesktop_4.12.4_arm.deb
+Filename: dists/x11-stable/main/binary-arm/xfdesktop_4.12.4_arm.deb
 Size: 715188
 MD5sum: 8fdc97eaac02c0b863bab7764be4dec9
 SHA1: cf06a21b54ac2810db65b1dd1ea4e3c75f630758
@@ -229,7 +229,7 @@ Version: 0.9.16
 Maintainer: lokesh @hax4us
 Installed-Size: 1884
 Depends: libandroid-shmem, libcairo-x, libxcursor, libxcomposite, libvncserver, libxtst, libxinerama, libxdamage, libxrandr
-Filename: dists/x11/main/binary-arm/x11vnc_0.9.16_arm.deb
+Filename: dists/x11-stable/main/binary-arm/x11vnc_0.9.16_arm.deb
 Size: 530464
 MD5sum: 102dc137cdf907f2f0dbc66bd5df4544
 SHA1: d0577f42609a639948e7948443728b056d78fe11
@@ -244,7 +244,7 @@ Version: 0.9.12
 Maintainer: lokesh @hax4us
 Installed-Size: 384
 Depends: libpng, libjpeg-turbo, gnutls, libgcrypt, libsasl
-Filename: dists/x11/main/binary-arm/libvncserver_0.9.12_arm.deb
+Filename: dists/x11-stable/main/binary-arm/libvncserver_0.9.12_arm.deb
 Size: 150044
 MD5sum: 0625b9ed1f44bd73abd58afa3933695f
 SHA1: cdb897caabc6d365002d4e577f8b0f877664a775
@@ -259,7 +259,7 @@ Version: 0.12.2
 Maintainer: lokesh @hax4us
 Installed-Size: 3060
 Depends: gtk3, libxfce4ui, libxfce4util, perl-uri
-Filename: dists/x11/main/binary-arm/exo_0.12.2_arm.deb
+Filename: dists/x11-stable/main/binary-arm/exo_0.12.2_arm.deb
 Size: 381876
 MD5sum: 29aff9564ae3489931377f47c90f6acb
 SHA1: 78712960ef80d84e73e799697a89a67b3b358f3c
@@ -274,7 +274,7 @@ Version: 1.0.8
 Maintainer: lokesh @hax4us
 Installed-Size: 72
 Depends: libice
-Filename: dists/x11/main/binary-arm/xorg-iceauth_1.0.8_arm.deb
+Filename: dists/x11-stable/main/binary-arm/xorg-iceauth_1.0.8_arm.deb
 Size: 10756
 MD5sum: 2bbbfa17c7d42e0d65a64bceff1db6cf
 SHA1: 6360a12cb54f2df6be94568ff7bf189bf57a2c79
@@ -289,7 +289,7 @@ Version: 4.12.1
 Maintainer: lokesh @hax4us
 Installed-Size: 80
 Depends: xfconf
-Filename: dists/x11/main/binary-arm/xfconf-dev_4.12.1_arm.deb
+Filename: dists/x11-stable/main/binary-arm/xfconf-dev_4.12.1_arm.deb
 Size: 3416
 MD5sum: 6705d50f37f95db77598cf8acbeda255
 SHA1: 41056b4256693a4dd8b61d33e8d3deb1ef46f95c
@@ -304,7 +304,7 @@ Version: 4.12.1
 Maintainer: lokesh @hax4us
 Installed-Size: 92
 Depends: glib, libxml2, iso-codes, xkeyboard-config, libxi
-Filename: dists/x11/main/binary-arm/libxklavier_4.12.1_arm.deb
+Filename: dists/x11-stable/main/binary-arm/libxklavier_4.12.1_arm.deb
 Size: 26204
 MD5sum: 0a792dd853a953c76860e5531e71eddc
 SHA1: 54e4f5504162e1988a40eade3c9b3a535a5fad3d
@@ -319,7 +319,7 @@ Version: 0.9.12
 Maintainer: lokesh @hax4us
 Installed-Size: 264
 Depends: libvncserver
-Filename: dists/x11/main/binary-arm/libvncserver-dev_0.9.12_arm.deb
+Filename: dists/x11-stable/main/binary-arm/libvncserver-dev_0.9.12_arm.deb
 Size: 44752
 MD5sum: 94203b9c14b4c5520ff99dd02d635c92
 SHA1: 53354664164873b3ad7f8853896dfcf49d26b62d
@@ -333,7 +333,7 @@ Architecture: arm
 Version: 4.1
 Maintainer: lokesh @hax4us
 Installed-Size: 2968
-Filename: dists/x11/main/binary-arm/iso-codes_4.1_arm.deb
+Filename: dists/x11-stable/main/binary-arm/iso-codes_4.1_arm.deb
 Size: 253852
 MD5sum: cb35c6bdc1ba6758d32c9dd78e933a33
 SHA1: 5498a2fc059fd1d661eb1051148f692fd0fc6a7b
@@ -348,7 +348,7 @@ Version: 4.12.0
 Maintainer: lokesh @hax4us
 Installed-Size: 1060
 Depends: garcon, libxfce4ui, hicolor-icon-theme
-Filename: dists/x11/main/binary-arm/xfce4-appfinder_4.12.0_arm.deb
+Filename: dists/x11-stable/main/binary-arm/xfce4-appfinder_4.12.0_arm.deb
 Size: 91556
 MD5sum: fe0d5b384be1063c6466be486ea26803
 SHA1: e246fbfa1a68713870c33c0b59c0d832c2802f9f
@@ -363,7 +363,7 @@ Version: 1.12.10
 Maintainer: Fredrik Fornwall @fornwall
 Installed-Size: 720
 Depends: libexpat,libx11
-Filename: dists/x11/main/binary-arm/libdbus_1.12.10_arm.deb
+Filename: dists/x11-stable/main/binary-arm/libdbus_1.12.10_arm.deb
 Size: 188748
 MD5sum: 217323e81f281d095ddaf52404acfcc6
 SHA1: 00e519795420033baf5dc957a8874d94e94e8d8b
@@ -378,7 +378,7 @@ Version: 1.76
 Maintainer: lokesh @hax4us
 Installed-Size: 160
 Depends: perl
-Filename: dists/x11/main/binary-arm/perl-uri_1.76_arm.deb
+Filename: dists/x11-stable/main/binary-arm/perl-uri_1.76_arm.deb
 Size: 20460
 MD5sum: fb3e22b62bfce91fb7023d49a892d4a2
 SHA1: 96c2f4e2bbf7e7dbd1cb59e34384115972bf0e7b
@@ -393,7 +393,7 @@ Version: 4.12.4
 Maintainer: lokesh @hax4us
 Installed-Size: 3120
 Depends: exo, garcon, libxfce4ui, libnotify, libxklavier, lxde-icon-theme
-Filename: dists/x11/main/binary-arm/xfce4-settings_4.12.4_arm.deb
+Filename: dists/x11-stable/main/binary-arm/xfce4-settings_4.12.4_arm.deb
 Size: 446956
 MD5sum: c72786973f2ebf79469670c78da26699
 SHA1: e94275895422b3b7a0cb0f195ab2c406756f1791
@@ -408,7 +408,7 @@ Version: 4.12.1
 Maintainer: lokesh @hax4us
 Installed-Size: 108
 Depends: libxfce4util
-Filename: dists/x11/main/binary-arm/libxfce4util-dev_4.12.1_arm.deb
+Filename: dists/x11-stable/main/binary-arm/libxfce4util-dev_4.12.1_arm.deb
 Size: 5480
 MD5sum: 274acefc0d17bb9794ffe886d00e3c8f
 SHA1: eb3849123c358c9342e550b6cf832796b6ddaa09
@@ -423,7 +423,7 @@ Version: 4.12.2
 Maintainer: lokesh @hax4us
 Installed-Size: 3628
 Depends: exo, garcon, libwnck, libxfce4ui
-Filename: dists/x11/main/binary-arm/xfce4-panel_4.12.2_arm.deb
+Filename: dists/x11-stable/main/binary-arm/xfce4-panel_4.12.2_arm.deb
 Size: 508148
 MD5sum: c2de158dd74293762581d578a0667cbc
 SHA1: 707acf77efb5c276f0882c42130f967db135b743
@@ -438,7 +438,7 @@ Version: 0.6.2
 Maintainer: lokesh @hax4us
 Installed-Size: 1004
 Depends: libxfce4ui
-Filename: dists/x11/main/binary-arm/garcon_0.6.2_arm.deb
+Filename: dists/x11-stable/main/binary-arm/garcon_0.6.2_arm.deb
 Size: 76632
 MD5sum: 1d47881348e38aa3489dae93a1faf211
 SHA1: 2546826ead83c1e19b142759256664483e60c0ef
@@ -453,7 +453,7 @@ Version: 1.12.10
 Maintainer: Fredrik Fornwall @fornwall
 Installed-Size: 212
 Depends: libdbus
-Filename: dists/x11/main/binary-arm/libdbus-dev_1.12.10_arm.deb
+Filename: dists/x11-stable/main/binary-arm/libdbus-dev_1.12.10_arm.deb
 Size: 21284
 MD5sum: 736dd0865ed27924b43826e3fdf005a4
 SHA1: 6bee1d38b43ddc75713e05dec731176ecb8b92fc
@@ -468,7 +468,7 @@ Version: 1.8.2
 Maintainer: lokesh @hax4us
 Installed-Size: 6004
 Depends: libxfce4ui, exo, hicolor-icon-theme, libexif, libnotify, libpng
-Filename: dists/x11/main/binary-arm/thunar_1.8.2_arm.deb
+Filename: dists/x11-stable/main/binary-arm/thunar_1.8.2_arm.deb
 Size: 946068
 MD5sum: 3c3540b45a8ee736017c197029e52f93
 SHA1: 8a4491d83b28a713d3f61f1722a1cba00d03ef3f
@@ -483,7 +483,7 @@ Version: 4.12.1
 Maintainer: lokesh @hax4us
 Installed-Size: 1728
 Depends: xfconf, gtk2, gtk3, startup-notification
-Filename: dists/x11/main/binary-arm/libxfce4ui_4.12.1_arm.deb
+Filename: dists/x11-stable/main/binary-arm/libxfce4ui_4.12.1_arm.deb
 Size: 185020
 MD5sum: 94b1367caa4b9ff9510819c6117de562
 SHA1: 311a4d36c2112c10bf1963ac1f2787159be209fc
@@ -498,7 +498,7 @@ Version: 0.110
 Maintainer: Fredrik Fornwall @fornwall
 Installed-Size: 84
 Depends: dbus-glib
-Filename: dists/x11/main/binary-arm/dbus-glib-dev_0.110_arm.deb
+Filename: dists/x11-stable/main/binary-arm/dbus-glib-dev_0.110_arm.deb
 Size: 5784
 MD5sum: c68953589076ccee633e2ae8846d2996
 SHA1: a04b5096392c8343f1189cdf17c3a47abe661c6a
@@ -513,7 +513,7 @@ Version: 1.1.1
 Maintainer: lokesh @hax4us
 Installed-Size: 76
 Depends: libx11, libxmu
-Filename: dists/x11/main/binary-arm/xorg-xrdb_1.1.1_arm.deb
+Filename: dists/x11-stable/main/binary-arm/xorg-xrdb_1.1.1_arm.deb
 Size: 16440
 MD5sum: 820ba13e86c6e5e59413a43c78852e2e
 SHA1: 8f5a74b11c2ebc42403ac13d8bd075065538e71f
@@ -528,7 +528,7 @@ Version: 4.12.1
 Maintainer: lokesh @hax4us
 Installed-Size: 1084
 Depends: libxfce4util, dbus-glib
-Filename: dists/x11/main/binary-arm/xfconf_4.12.1_arm.deb
+Filename: dists/x11-stable/main/binary-arm/xfconf_4.12.1_arm.deb
 Size: 103300
 MD5sum: 08d1418057176005f64d2a0033458674
 SHA1: 930a129539892ff3572c5d4a920a06ff12684c37
@@ -543,7 +543,7 @@ Version: 4.12.1
 Maintainer: lokesh @hax4us
 Installed-Size: 60
 Depends: xfce4-session
-Filename: dists/x11/main/binary-arm/xfce4-session-dev_4.12.1_arm.deb
+Filename: dists/x11-stable/main/binary-arm/xfce4-session-dev_4.12.1_arm.deb
 Size: 2704
 MD5sum: e65c813e04248dc1c87136131d92c5fa
 SHA1: 6405f4e993181fc05eea0c9c8490d75eeb2a2ce8
@@ -558,7 +558,7 @@ Version: 4.12.1
 Maintainer: lokesh @hax4us
 Installed-Size: 104
 Depends: libxklavier
-Filename: dists/x11/main/binary-arm/libxklavier-dev_4.12.1_arm.deb
+Filename: dists/x11-stable/main/binary-arm/libxklavier-dev_4.12.1_arm.deb
 Size: 9508
 MD5sum: f3c201db95d85a6e72873147a0d0a2d4
 SHA1: 19e0155a3da306e85e0ebc6b5bb5739190be1af9
@@ -573,7 +573,7 @@ Version: 0.6.2
 Maintainer: lokesh @hax4us
 Installed-Size: 172
 Depends: garcon
-Filename: dists/x11/main/binary-arm/garcon-dev_0.6.2_arm.deb
+Filename: dists/x11-stable/main/binary-arm/garcon-dev_0.6.2_arm.deb
 Size: 7312
 MD5sum: 2fb12d847b837e1c6cfa5a36399e44d1
 SHA1: b3d3694823e3c1f57f2a05e5ed2732d948433e4e

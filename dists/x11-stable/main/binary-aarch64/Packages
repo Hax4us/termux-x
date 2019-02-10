@@ -4,7 +4,7 @@ Version: 4.12.0
 Maintainer: lokesh @hax4us
 Installed-Size: 1084
 Depends: garcon, libxfce4ui, hicolor-icon-theme
-Filename: dists/x11/main/binary-aarch64/xfce4-appfinder_4.12.0_aarch64.deb
+Filename: dists/x11-stable/main/binary-aarch64/xfce4-appfinder_4.12.0_aarch64.deb
 Size: 88972
 MD5sum: 78524a0cf4c37870ba1cf13ea3f10eac
 SHA1: f38d2fd771cbc65b1a65709ba5cec352582e06a4
@@ -19,7 +19,7 @@ Version: 4.12.2
 Maintainer: lokesh @hax4us
 Installed-Size: 3876
 Depends: exo, garcon, libwnck, libxfce4ui
-Filename: dists/x11/main/binary-aarch64/xfce4-panel_4.12.2_aarch64.deb
+Filename: dists/x11-stable/main/binary-aarch64/xfce4-panel_4.12.2_aarch64.deb
 Size: 491484
 MD5sum: ecfccfd08156efc639e57be1541d9764
 SHA1: e403dff7eb860659dcd444e527af4f7efeb59e75
@@ -34,7 +34,7 @@ Version: 4.12.1
 Maintainer: lokesh @hax4us
 Installed-Size: 60
 Depends: xfce4-session
-Filename: dists/x11/main/binary-aarch64/xfce4-session-dev_4.12.1_aarch64.deb
+Filename: dists/x11-stable/main/binary-aarch64/xfce4-session-dev_4.12.1_aarch64.deb
 Size: 2700
 MD5sum: 8b07e3860f03afaae430b3b419d48d7e
 SHA1: 0cf5b01e0898b393729d1ad0956fbf6fc72cbccf
@@ -49,7 +49,7 @@ Version: 3.2.0
 Maintainer: lokesh @hax4us
 Installed-Size: 940
 Depends: gtk2, gtk3
-Filename: dists/x11/main/binary-aarch64/gtk-xfce-engine_3.2.0_aarch64.deb
+Filename: dists/x11-stable/main/binary-aarch64/gtk-xfce-engine_3.2.0_aarch64.deb
 Size: 48044
 MD5sum: e12733e81f1e2f3762d4f7a83aad9f8b
 SHA1: ec419906c56d9cb5775298f31c7a6461cc70708e
@@ -64,7 +64,7 @@ Version: 4.12.1
 Maintainer: lokesh @hax4us
 Installed-Size: 104
 Depends: libxklavier
-Filename: dists/x11/main/binary-aarch64/libxklavier-dev_4.12.1_aarch64.deb
+Filename: dists/x11-stable/main/binary-aarch64/libxklavier-dev_4.12.1_aarch64.deb
 Size: 9512
 MD5sum: 302a3f7fe0103c5fefabec8a293e7075
 SHA1: 81565f37d5679bdbc812ec538170f98d7cd23811
@@ -79,7 +79,7 @@ Version: 0.9.16
 Maintainer: lokesh @hax4us
 Installed-Size: 1992
 Depends: libandroid-shmem, libcairo-x, libxcursor, libxcomposite, libvncserver, libxtst, libxinerama, libxdamage, libxrandr
-Filename: dists/x11/main/binary-aarch64/x11vnc_0.9.16_aarch64.deb
+Filename: dists/x11-stable/main/binary-aarch64/x11vnc_0.9.16_aarch64.deb
 Size: 492496
 MD5sum: e8021f17ca11d5e7bc59747a57530c59
 SHA1: 88fab2f5a51f989ad6be7e63b5c7470ac9d17747
@@ -94,7 +94,7 @@ Version: 1.8.2
 Maintainer: lokesh @hax4us
 Installed-Size: 6168
 Depends: libxfce4ui, exo, hicolor-icon-theme, libexif, libnotify, libpng
-Filename: dists/x11/main/binary-aarch64/thunar_1.8.2_aarch64.deb
+Filename: dists/x11-stable/main/binary-aarch64/thunar_1.8.2_aarch64.deb
 Size: 919500
 MD5sum: 400feb3506eb01b34e783d2583061a85
 SHA1: 2040f76d14f0de5df035bee8163a2d7486b0d6d9
@@ -109,7 +109,7 @@ Version: 4.12.4
 Maintainer: lokesh @hax4us
 Installed-Size: 2804
 Depends: exo, libwnck, libxfce4ui, thunar, startup-notification
-Filename: dists/x11/main/binary-aarch64/xfdesktop_4.12.4_aarch64.deb
+Filename: dists/x11-stable/main/binary-aarch64/xfdesktop_4.12.4_aarch64.deb
 Size: 708736
 MD5sum: 8f0659d4e698b46fe101decba16eee36
 SHA1: 90d5be391a5d54d15d2c17a837b4f9e903f0f3fc
@@ -124,7 +124,7 @@ Version: 4.12.1
 Maintainer: lokesh @hax4us
 Installed-Size: 1120
 Depends: libxfce4util, dbus-glib
-Filename: dists/x11/main/binary-aarch64/xfconf_4.12.1_aarch64.deb
+Filename: dists/x11-stable/main/binary-aarch64/xfconf_4.12.1_aarch64.deb
 Size: 98632
 MD5sum: 2c3f00764259c5432eb0e02c014f88b5
 SHA1: 893a33449693473956943f065f35cb6695d9c329
@@ -139,7 +139,7 @@ Version: 0.110
 Maintainer: Fredrik Fornwall @fornwall
 Installed-Size: 284
 Depends: libdbus, glib
-Filename: dists/x11/main/binary-aarch64/dbus-glib_0.110_aarch64.deb
+Filename: dists/x11-stable/main/binary-aarch64/dbus-glib_0.110_aarch64.deb
 Size: 54460
 MD5sum: 57697801476911ce0c3bf7d28a5793e2
 SHA1: a09af8a8f7169b5ad70741077caffe41ef4dc227
@@ -154,7 +154,7 @@ Version: 4.12.1
 Maintainer: lokesh @hax4us
 Installed-Size: 80
 Depends: xfconf
-Filename: dists/x11/main/binary-aarch64/xfconf-dev_4.12.1_aarch64.deb
+Filename: dists/x11-stable/main/binary-aarch64/xfconf-dev_4.12.1_aarch64.deb
 Size: 3408
 MD5sum: f2257208bc78f7953d4ff023d0fbdd7f
 SHA1: 50e4f9fd365c138e12a8d47cc25f987ee5171a80
@@ -169,7 +169,7 @@ Version: 1.1.1
 Maintainer: lokesh @hax4us
 Installed-Size: 80
 Depends: libx11, libxmu
-Filename: dists/x11/main/binary-aarch64/xorg-xrdb_1.1.1_aarch64.deb
+Filename: dists/x11-stable/main/binary-aarch64/xorg-xrdb_1.1.1_aarch64.deb
 Size: 13300
 MD5sum: 50ac4becd17736a1b091470d376219f3
 SHA1: df890dbe564fa941525e1fdaa39e5ee748e23a58
@@ -184,7 +184,7 @@ Version: 4.12.1
 Maintainer: lokesh @hax4us
 Installed-Size: 108
 Depends: glib, libxml2, iso-codes, xkeyboard-config, libxi
-Filename: dists/x11/main/binary-aarch64/libxklavier_4.12.1_aarch64.deb
+Filename: dists/x11-stable/main/binary-aarch64/libxklavier_4.12.1_aarch64.deb
 Size: 22812
 MD5sum: 1cb00bbf47307a3459ec682dd92b63df
 SHA1: 96e96024d2339635ca06d89654afb67a09357850
@@ -199,7 +199,7 @@ Version: 1.8.2
 Maintainer: lokesh @hax4us
 Installed-Size: 124
 Depends: thunar
-Filename: dists/x11/main/binary-aarch64/thunar-dev_1.8.2_aarch64.deb
+Filename: dists/x11-stable/main/binary-aarch64/thunar-dev_1.8.2_aarch64.deb
 Size: 6684
 MD5sum: 21057fb1aa3e651c4afe58116d75e6c5
 SHA1: 738d20b4f966358170e2a0649ffd4f8870a88ea1
@@ -214,7 +214,7 @@ Version: 2.30.7
 Maintainer: lokesh @hax4us
 Installed-Size: 1072
 Depends: gtk2, startup-notification
-Filename: dists/x11/main/binary-aarch64/libwnck_2.30.7_aarch64.deb
+Filename: dists/x11-stable/main/binary-aarch64/libwnck_2.30.7_aarch64.deb
 Size: 114040
 MD5sum: 6d31422db45fa5e3f02fdd58c633522b
 SHA1: 88c6fcd9584e2cba0f00a0cba18a7c14789cd805
@@ -229,7 +229,7 @@ Version: 0.6.2
 Maintainer: lokesh @hax4us
 Installed-Size: 172
 Depends: garcon
-Filename: dists/x11/main/binary-aarch64/garcon-dev_0.6.2_aarch64.deb
+Filename: dists/x11-stable/main/binary-aarch64/garcon-dev_0.6.2_aarch64.deb
 Size: 7320
 MD5sum: a3217fc8f3d59e470b86235363b15552
 SHA1: cd37af888737c43982b1ef126b9b0064d624943b
@@ -244,7 +244,7 @@ Version: 4.12.1
 Maintainer: lokesh @hax4us
 Installed-Size: 108
 Depends: libxfce4util
-Filename: dists/x11/main/binary-aarch64/libxfce4util-dev_4.12.1_aarch64.deb
+Filename: dists/x11-stable/main/binary-aarch64/libxfce4util-dev_4.12.1_aarch64.deb
 Size: 5500
 MD5sum: cb0d79e87bc0e0f602867c8cc9bb88a7
 SHA1: 474861be78940147088b24e29155085b49143ec1
@@ -259,7 +259,7 @@ Version: 1.12.10
 Maintainer: Fredrik Fornwall @fornwall
 Installed-Size: 212
 Depends: libdbus
-Filename: dists/x11/main/binary-aarch64/libdbus-dev_1.12.10_aarch64.deb
+Filename: dists/x11-stable/main/binary-aarch64/libdbus-dev_1.12.10_aarch64.deb
 Size: 21296
 MD5sum: 3299dc671337ac61919d86ec19efea1a
 SHA1: c97ab8ab104ca1b0de785715a78870f8e6b93c30
@@ -274,7 +274,7 @@ Version: 1.76
 Maintainer: lokesh @hax4us
 Installed-Size: 452
 Depends: perl
-Filename: dists/x11/main/binary-aarch64/perl-uri_1.76_aarch64.deb
+Filename: dists/x11-stable/main/binary-aarch64/perl-uri_1.76_aarch64.deb
 Size: 46296
 MD5sum: be7fbc82a14f88b80ea046f0dca67860
 SHA1: 21bf33da11da14f121e4d45139118da194e49fb6
@@ -289,7 +289,7 @@ Version: 0.9.12
 Maintainer: lokesh @hax4us
 Installed-Size: 264
 Depends: libvncserver
-Filename: dists/x11/main/binary-aarch64/libvncserver-dev_0.9.12_aarch64.deb
+Filename: dists/x11-stable/main/binary-aarch64/libvncserver-dev_0.9.12_aarch64.deb
 Size: 44780
 MD5sum: 671ed1e9947707050044636cc8674f6e
 SHA1: fa3c75ffab0f7f09d6c95de0f63e9f5961305f72
@@ -304,7 +304,7 @@ Version: 0.12.2
 Maintainer: lokesh @hax4us
 Installed-Size: 3200
 Depends: gtk3, libxfce4ui, libxfce4util, perl-uri
-Filename: dists/x11/main/binary-aarch64/exo_0.12.2_aarch64.deb
+Filename: dists/x11-stable/main/binary-aarch64/exo_0.12.2_aarch64.deb
 Size: 370984
 MD5sum: 5af1f05081070bb556da713da167134c
 SHA1: d07cd26777c3571c2a94bdb552508ddd88023dd7
@@ -319,7 +319,7 @@ Version: 0.12.2
 Maintainer: lokesh @hax4us
 Installed-Size: 308
 Depends: exo
-Filename: dists/x11/main/binary-aarch64/exo-dev_0.12.2_aarch64.deb
+Filename: dists/x11-stable/main/binary-aarch64/exo-dev_0.12.2_aarch64.deb
 Size: 13560
 MD5sum: 8e67e086b2379c3fdff2760293a55d39
 SHA1: 63b54f7f4b15f9813a007f8d69a37fd43a8e3140
@@ -334,7 +334,7 @@ Version: 1.12.10
 Maintainer: Fredrik Fornwall @fornwall
 Installed-Size: 872
 Depends: libexpat,libx11
-Filename: dists/x11/main/binary-aarch64/libdbus_1.12.10_aarch64.deb
+Filename: dists/x11-stable/main/binary-aarch64/libdbus_1.12.10_aarch64.deb
 Size: 182056
 MD5sum: 02e40db85ef4c112682142ef2a854909
 SHA1: 36a1de99177d833f93630cfa4afc948b735982ec
@@ -349,7 +349,7 @@ Version: 0.110
 Maintainer: Fredrik Fornwall @fornwall
 Installed-Size: 84
 Depends: dbus-glib
-Filename: dists/x11/main/binary-aarch64/dbus-glib-dev_0.110_aarch64.deb
+Filename: dists/x11-stable/main/binary-aarch64/dbus-glib-dev_0.110_aarch64.deb
 Size: 5772
 MD5sum: 6a17b017197ad615c06f783be8b1670f
 SHA1: e417357781590352f9a062dba459ffcd7aa23128
@@ -364,7 +364,7 @@ Version: 0.7.1
 Maintainer: lokesh @hax4us
 Installed-Size: 2712
 Depends: librsvg, libxklavier, xfce4-panel
-Filename: dists/x11/main/binary-aarch64/xfce4-xkb-plugin_0.7.1_aarch64.deb
+Filename: dists/x11-stable/main/binary-aarch64/xfce4-xkb-plugin_0.7.1_aarch64.deb
 Size: 405876
 MD5sum: 2595ff03efb56d7759b67f8b5267c049
 SHA1: 5fae37513243124d4772838bad73dfebee4d9263
@@ -379,7 +379,7 @@ Version: 1.0.9
 Maintainer: lokesh @hax4us
 Installed-Size: 88
 Depends: libx11
-Filename: dists/x11/main/binary-aarch64/xorg-xmodmap_1.0.9_aarch64.deb
+Filename: dists/x11-stable/main/binary-aarch64/xorg-xmodmap_1.0.9_aarch64.deb
 Size: 15344
 MD5sum: fbe681022787a722ebcdd529a249707e
 SHA1: 213f9ff21fa54da6dee760a8b0e215a83839587e
@@ -394,7 +394,7 @@ Version: 4.12.2
 Maintainer: lokesh @hax4us
 Installed-Size: 260
 Depends: xfce4-panel
-Filename: dists/x11/main/binary-aarch64/xfce4-panel-dev_4.12.2_aarch64.deb
+Filename: dists/x11-stable/main/binary-aarch64/xfce4-panel-dev_4.12.2_aarch64.deb
 Size: 13780
 MD5sum: 2fd69d641380d75d4955f353631c9f60
 SHA1: e908f73aa3a92fda1e9a350ec2509b62c712e10b
@@ -409,7 +409,7 @@ Version: 0.6.2
 Maintainer: lokesh @hax4us
 Installed-Size: 1060
 Depends: libxfce4ui
-Filename: dists/x11/main/binary-aarch64/garcon_0.6.2_aarch64.deb
+Filename: dists/x11-stable/main/binary-aarch64/garcon_0.6.2_aarch64.deb
 Size: 75236
 MD5sum: 1c07b89ed75849fa692552c88a244310
 SHA1: 36226d35a5f6ceab41ef6f131c54dc05f76d1711
@@ -424,7 +424,7 @@ Version: 4.12.1
 Maintainer: lokesh @hax4us
 Installed-Size: 1804
 Depends: xfconf, gtk2, gtk3, startup-notification
-Filename: dists/x11/main/binary-aarch64/libxfce4ui_4.12.1_aarch64.deb
+Filename: dists/x11-stable/main/binary-aarch64/libxfce4ui_4.12.1_aarch64.deb
 Size: 184064
 MD5sum: 94842f2ac30343a478e3d0feef5a8485
 SHA1: fe130a5b5c4348f41aa0f2cf2025f78229ef49ff
@@ -439,7 +439,7 @@ Version: 1.4.0
 Maintainer: lokesh @hax4us
 Installed-Size: 104
 Depends: xorg-xrdb, xorg-xmodmap, inetutils, xorg-iceauth, libx11
-Filename: dists/x11/main/binary-aarch64/xorg-xinit_1.4.0_aarch64.deb
+Filename: dists/x11-stable/main/binary-aarch64/xorg-xinit_1.4.0_aarch64.deb
 Size: 11692
 MD5sum: 390cd9b3c093024b947b143bf4901c8b
 SHA1: d2555e29f66f23541053d2323f4b9a8600955275
@@ -454,7 +454,7 @@ Version: 1.0.8
 Maintainer: lokesh @hax4us
 Installed-Size: 80
 Depends: libice
-Filename: dists/x11/main/binary-aarch64/xorg-iceauth_1.0.8_aarch64.deb
+Filename: dists/x11-stable/main/binary-aarch64/xorg-iceauth_1.0.8_aarch64.deb
 Size: 11100
 MD5sum: a88eb1cb0a17ee7ee0ae157d22f1cb39
 SHA1: 41a23603018763b159b3eb25ab902d13fcad5dfe
@@ -469,7 +469,7 @@ Version: 4.12.4
 Maintainer: lokesh @hax4us
 Installed-Size: 3228
 Depends: exo, garcon, libxfce4ui, libnotify, libxklavier, lxde-icon-theme
-Filename: dists/x11/main/binary-aarch64/xfce4-settings_4.12.4_aarch64.deb
+Filename: dists/x11-stable/main/binary-aarch64/xfce4-settings_4.12.4_aarch64.deb
 Size: 432324
 MD5sum: f21ceccfc970a83d0929e35876206bf2
 SHA1: 026cdba14f02d40ca01ce4f95bfc0ae0d7d3978e
@@ -484,7 +484,7 @@ Version: 4.12.1
 Maintainer: lokesh @hax4us
 Installed-Size: 224
 Depends: libxfce4ui
-Filename: dists/x11/main/binary-aarch64/libxfce4ui-dev_4.12.1_aarch64.deb
+Filename: dists/x11-stable/main/binary-aarch64/libxfce4ui-dev_4.12.1_aarch64.deb
 Size: 5976
 MD5sum: d2f668528071768e94abf62d864a52ac
 SHA1: d93e858f139f0f0e101f80ba1b228734cc13c6e4
@@ -499,7 +499,7 @@ Version: 4.12.5
 Maintainer: lokesh @hax4us
 Installed-Size: 5128
 Depends: libxfce4ui, libwnck, xfconf, startup-notification
-Filename: dists/x11/main/binary-aarch64/xfwm4_4.12.5_aarch64.deb
+Filename: dists/x11-stable/main/binary-aarch64/xfwm4_4.12.5_aarch64.deb
 Size: 419884
 MD5sum: fb000ad5afd0b69b748bfa4c6271cf91
 SHA1: bec8b6fb0bf30019d8f1a857ff8cceee49fb7be6
@@ -514,7 +514,7 @@ Version: 0.9.12
 Maintainer: lokesh @hax4us
 Installed-Size: 468
 Depends: libpng, libjpeg-turbo, gnutls, libgcrypt, libsasl
-Filename: dists/x11/main/binary-aarch64/libvncserver_0.9.12_aarch64.deb
+Filename: dists/x11-stable/main/binary-aarch64/libvncserver_0.9.12_aarch64.deb
 Size: 140300
 MD5sum: feb07c1608e550a5d0e57116f1521011
 SHA1: e11672263e094993126c8c90e794c78a3f2f8043
@@ -529,7 +529,7 @@ Version: 2.30.7
 Maintainer: lokesh @hax4us
 Installed-Size: 124
 Depends: libwnck
-Filename: dists/x11/main/binary-aarch64/libwnck-dev_2.30.7_aarch64.deb
+Filename: dists/x11-stable/main/binary-aarch64/libwnck-dev_2.30.7_aarch64.deb
 Size: 9856
 MD5sum: 13139e6e6114667f64126528fd28392a
 SHA1: d6384b09e0476c7e0bd35e70164e89cefbe1cb51
@@ -544,7 +544,7 @@ Version: 4.12.1
 Maintainer: lokesh @hax4us
 Installed-Size: 2736
 Depends: libwnck, libxfce4ui, libsm, xorg-iceauth, xorg-xinit, xorg-xrdb
-Filename: dists/x11/main/binary-aarch64/xfce4-session_4.12.1_aarch64.deb
+Filename: dists/x11-stable/main/binary-aarch64/xfce4-session_4.12.1_aarch64.deb
 Size: 577272
 MD5sum: 96550428121c4e240ec1a7acefa26c70
 SHA1: bf47d5a5454cab189ab6802e55087cf3d15a0d37
@@ -559,7 +559,7 @@ Version: 4.12.1
 Maintainer: lokesh @hax4us
 Installed-Size: 976
 Depends: glib
-Filename: dists/x11/main/binary-aarch64/libxfce4util_4.12.1_aarch64.deb
+Filename: dists/x11-stable/main/binary-aarch64/libxfce4util_4.12.1_aarch64.deb
 Size: 60124
 MD5sum: b075fba0d3e2f4406ea9e4f5072fbfcd
 SHA1: bf8a45d411ffa71a0a676a5a8fc45de8cfa4d92d

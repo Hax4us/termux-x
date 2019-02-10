@@ -3,7 +3,7 @@ Architecture: all
 Version: 4.1
 Maintainer: lokesh @hax4us
 Installed-Size: 2968
-Filename: dists/x11/main/binary-all/iso-codes_4.1_all.deb
+Filename: dists/x11-stable/main/binary-all/iso-codes_4.1_all.deb
 Size: 253844
 MD5sum: 7439b79273d8ee700f031b061894196a
 SHA1: 13bf751f12818db38d303828b7442e5f28072461
@@ -18,7 +18,7 @@ Version: 0.5.1
 Maintainer: lokesh @hax4us
 Installed-Size: 8504
 Depends: gtk3
-Filename: dists/x11/main/binary-all/lxde-icon-theme_0.5.1_all.deb
+Filename: dists/x11-stable/main/binary-all/lxde-icon-theme_0.5.1_all.deb
 Size: 4468164
 MD5sum: 0720046c0111d5d1ee6b3bd50f440178
 SHA1: 1289bb74feed1b56b60cb86b3e5dc24711b21561
@@ -33,7 +33,7 @@ Version: 4.12.4
 Maintainer: lokesh @hax4us
 Installed-Size: 24
 Depends: xfwm4 (>= 4.12.0), xfconf (>= 4.12.0), xfce4-settings (>= 4.12.0), xfce4-panel (>= 4.12.0), xfdesktop (>= 4.12.0), thunar (>= 1.6.6), gtk-xfce-engine (>= 3.2.0), xfce4-session (>= 4.12.0), xfce4-appfinder (>= 4.12.0), libxfce4ui (>= 4.12), xfce4-xkb-plugin, xorg-server-xvfb
-Filename: dists/x11/main/binary-all/xfce4_4.12.4_all.deb
+Filename: dists/x11-stable/main/binary-all/xfce4_4.12.4_all.deb
 Size: 980
 MD5sum: 04fb717d3969061af35eef2f519c37d5
 SHA1: 7663847b2f49bbd304d18033dc5521a0af7804be
