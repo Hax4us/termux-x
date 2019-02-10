@@ -1,0 +1,584 @@
+Package: dbus-glib
+Architecture: arm
+Version: 0.110
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 220
+Depends: libdbus, glib
+Filename: dists/x11/main/binary-arm/dbus-glib_0.110_arm.deb
+Size: 55716
+MD5sum: 12c29481bd84597842b42a0a7a4de615
+SHA1: b62a267480630c6fefc1255d032b733f86f3e26d
+SHA256: 3c2b04eb754d585ec6638209cf69301722160d1a6f3f2df0963b3fa6bc2fbaa9
+SHA512: 9d340238093d9a11afc922735403c77b0f74a3f68480cbe70c628f8192a6280ddb1008272c20217cfddb55d5a4608ad501823aff2699c736f7c6e8a3d123cd3a
+Homepage: https://www.freedesktop.org/wiki/Software/DBusBindings
+Description: FIXME:Add description
+
+Package: libwnck
+Architecture: arm
+Version: 2.30.7
+Maintainer: lokesh @hax4us
+Installed-Size: 996
+Depends: gtk2, startup-notification
+Filename: dists/x11/main/binary-arm/libwnck_2.30.7_arm.deb
+Size: 115964
+MD5sum: 4f65551dcbfe0b4689fea78dd4235838
+SHA1: 68bbdc3e6ddcb7fe13999a3b7874cea3a233696f
+SHA256: ce535075e24841aae3201304f63a09456da0a6e6227e24b587bd51e7db7bc038
+SHA512: b217d2addca897ce1c7fdf2e8625fb85c77817bc045be6fd6ee542e36784f60a1d2b1ea2ad1b219522cc8bc561096516d323840981024b96f5bc6fab5ce314ea
+Homepage: http://www.gnome.org/
+Description: Window Navigator Construction Kit
+
+Package: gtk-xfce-engine
+Architecture: arm
+Version: 3.2.0
+Maintainer: lokesh @hax4us
+Installed-Size: 928
+Depends: gtk2, gtk3
+Filename: dists/x11/main/binary-arm/gtk-xfce-engine_3.2.0_arm.deb
+Size: 50900
+MD5sum: 1346d75620076f9e3a123fcbad617b3e
+SHA1: f4fc77a4ddb466055226c2189b9c69279a986674
+SHA256: 429ce134d11de1bc6af6d675fafe423d7cb292bc4b58bf66f9101f39bd30b661
+SHA512: 435b69b1ff79836c7c6532f5af2283d6b597f09d84efa4565a42f59025cf75ea39cc22ca1e77035066c879c7acd3c71b58d8b1ee340ed0e2404d3bd2c813efe2
+Homepage: http://www.xfce.org/
+Description: The GTK Xfce Engine package contains several GTK+ 2 and GTK+ 3 themes and libraries needed to display them.
+
+Package: xorg-xmodmap
+Architecture: arm
+Version: 1.0.9
+Maintainer: lokesh @hax4us
+Installed-Size: 84
+Depends: libx11
+Filename: dists/x11/main/binary-arm/xorg-xmodmap_1.0.9_arm.deb
+Size: 15848
+MD5sum: 1a3d740297115dffb0fb0eb96214ed95
+SHA1: f58519d83695b2df41501eac599d1574e90d9682
+SHA256: a35c11764aae14543cd5f334544b8e2fdcaff4dc39e81632636e9896ce77e49f
+SHA512: 2cf6fd4d884bf998a6fedb91a053ed4c716f215d93be73c016024a9109cc95bc1457f879dff6b04c1c39e6c629cfd7ddd3ed4ffa1aee51b4b3b802d5ff686033
+Homepage: https://xorg.freedesktop.org/
+Description: Utility for modifying keymaps and button mappings
+
+Package: xorg-xinit
+Architecture: arm
+Version: 1.4.0
+Maintainer: lokesh @hax4us
+Installed-Size: 96
+Depends: xorg-xrdb, xorg-xmodmap, inetutils, xorg-iceauth, libx11
+Filename: dists/x11/main/binary-arm/xorg-xinit_1.4.0_arm.deb
+Size: 11368
+MD5sum: fa76a74b24ac2a3afafddfa811a8301a
+SHA1: 5b16f2984fbed6e7a69b45568501d0daaf58173a
+SHA256: 2e1f3a190c9a82f9d67df28c50cdbf4647ffb33c96393e388e0d88f1c0492f53
+SHA512: 896d8fb277e242faa986e0a3e226a836386f255e7a8cdbfac47a29dcf11ed753cd92b3d933132e00b819f9e0f6ace8abeb28dd36f760ea834e1e31b00f87c3fe
+Homepage: https://xorg.freedesktop.org/
+Description: X.Org initialisation program.
+
+Package: xfwm4
+Architecture: arm
+Version: 4.12.5
+Maintainer: lokesh @hax4us
+Installed-Size: 5032
+Depends: libxfce4ui, libwnck, xfconf, startup-notification
+Filename: dists/x11/main/binary-arm/xfwm4_4.12.5_arm.deb
+Size: 423880
+MD5sum: 00881c07b9b9d273fe9ab8070b2cca3c
+SHA1: 0b02ea1b94381c7cf48c0adaff63bfff6fd5b25c
+SHA256: 71bce30922dccce5e50335e11e1cbd14c747234a14ae72233a6033b5068ce6d5
+SHA512: a83837cece12441c305018f51a6edbc35585b9367c78a399357407042391bcedf3fc82ac60214fe17b91aa6400bb8b78015dfabc29f38b50cfd59601177bf079
+Homepage: http://www.xfce.org/
+Description: Xfwm4 is the window manager for Xfce.
+
+Package: exo-dev
+Architecture: arm
+Version: 0.12.2
+Maintainer: lokesh @hax4us
+Installed-Size: 308
+Depends: exo
+Filename: dists/x11/main/binary-arm/exo-dev_0.12.2_arm.deb
+Size: 13572
+MD5sum: 7f0577bf2b9df9372a6921d6dd125a71
+SHA1: 179187a17f453ec942aa253de7e03e52b19474b6
+SHA256: 3c2924f8b19fa06ba098a5ab2c65a67277ecd2377f781ed503c8df48ab736260
+SHA512: e0e8993352f7457369562e7150580c047e30d7c1ae5312b35408d14e69337905e3ace077f0b2cd2f897a824cd0b9937178838ed72bce2064377e5a2580cd8148
+Homepage: http://www.xfce.org/
+Description: Development files for exo
+
+Package: xfce4-session
+Architecture: arm
+Version: 4.12.1
+Maintainer: lokesh @hax4us
+Installed-Size: 2636
+Depends: libwnck, libxfce4ui, libsm, xorg-iceauth, xorg-xinit, xorg-xrdb
+Filename: dists/x11/main/binary-arm/xfce4-session_4.12.1_arm.deb
+Size: 579096
+MD5sum: 6e1c21525ef9c961a74175ec5f5b80d7
+SHA1: 278a40c3d1c660f33458f6afe04ede279c2b1e8f
+SHA256: 7f9823410dda64e7b845649175552f04515eec235396024faf672dcf9b3efa35
+SHA512: 4ea04d1d55049b0ae7ee134c8fa601104f45edbd973e264c0d01a266b50eceb3300abc37b2c3548e4d3be45d36a0181c91ba82f498e77a4f2a8d7f9ebadf7eda
+Homepage: http://www.xfce.org/
+Description: Xfce4 Session is a session manager for Xfce.
+
+Package: xfce4-xkb-plugin
+Architecture: arm
+Version: 0.7.1
+Maintainer: lokesh @hax4us
+Installed-Size: 2696
+Depends: librsvg, libxklavier, xfce4-panel
+Filename: dists/x11/main/binary-arm/xfce4-xkb-plugin_0.7.1_arm.deb
+Size: 405756
+MD5sum: e404a0ece65eac88e589c9d322fe4f09
+SHA1: 858e516781e3e0e55a2002449fbf5bbb41eadfe2
+SHA256: 73ec089f3da9436a6852469832eddafd29d287e45ae0b60ac583d7b43dad4775
+SHA512: 593b056c9fa8d2e37a83da922ce2f2ab4e0253912addbe37db4f8a42d10407a70cb1d704b851942d232546c95e64b7b88be056b5a3e1479dbade48b689942964
+Homepage: https://goodies.xfce.org/projects/panel-plugins/xfce4-xkb-plugin
+Description: Plugin to switch keyboard layouts for the Xfce4 panel.
+
+Package: libxfce4ui-dev
+Architecture: arm
+Version: 4.12.1
+Maintainer: lokesh @hax4us
+Installed-Size: 224
+Depends: libxfce4ui
+Filename: dists/x11/main/binary-arm/libxfce4ui-dev_4.12.1_arm.deb
+Size: 5988
+MD5sum: a30fd7bfbcb064ed461c13739726e241
+SHA1: a0f92fe041232f0db6981d029ea566ce42bb23b1
+SHA256: c954952886e4c5cc01ed9838cefe8c74c21b9aa27f9feeabaf642c6bff734ffb
+SHA512: 7c6b9358bd5e48f4d4942b81e7d84b60d9798c56f0d1d443f908323b6ec35d5f29eb9cba8f9ab41339cd160b9d779400120ad4a0702b36338788a69a6b6592e1
+Homepage: http://www.xfce.org/
+Description: Development files for libxfce4ui
+
+Package: libwnck-dev
+Architecture: arm
+Version: 2.30.7
+Maintainer: lokesh @hax4us
+Installed-Size: 124
+Depends: libwnck
+Filename: dists/x11/main/binary-arm/libwnck-dev_2.30.7_arm.deb
+Size: 9852
+MD5sum: cd03d35213d9c6a5d1e32f670899fd97
+SHA1: 1bf1a18df1038bb87d80518f151bc7566639c218
+SHA256: bed89a396d4a87884b897d339985a7deb50e8693222e12e2f106553b0dd3b22b
+SHA512: dcc8783414b2afe346bf180aae58d42c4f822888db2c4c09080057b83e86943c7a8702f177b7143c06a82a9c184a7b9500342083896a3040bca59189cb84e54b
+Homepage: http://www.gnome.org/
+Description: Development files for libwnck
+
+Package: xfce4-panel-dev
+Architecture: arm
+Version: 4.12.2
+Maintainer: lokesh @hax4us
+Installed-Size: 260
+Depends: xfce4-panel
+Filename: dists/x11/main/binary-arm/xfce4-panel-dev_4.12.2_arm.deb
+Size: 13796
+MD5sum: 9aff90b7526455b1b8693e8e810f7f6b
+SHA1: abd822961c910c0bcc7e9d43144aa648dbebb0bb
+SHA256: 90800a8bff8a1882f0521c933676b6b2a1fc17f64211de72909e389fdabc4f9a
+SHA512: a377392582b4fdff6c90b800ae7ba25e6529ccc6fe854316540d08f2ae2a89f2790d1cbb1765660f5a3f4b299e2a6bb5cc11106b89e596cb777f7dfd4700174d
+Homepage: http://www.xfce.org/
+Description: Development files for xfce4-panel
+
+Package: libxfce4util
+Architecture: arm
+Version: 4.12.1
+Maintainer: lokesh @hax4us
+Installed-Size: 960
+Depends: glib
+Filename: dists/x11/main/binary-arm/libxfce4util_4.12.1_arm.deb
+Size: 60308
+MD5sum: 8f38fb508c4976a0c417cc4bda32c1b2
+SHA1: 3ecb36208f3b13ba7f86d974debe8df1c503ead2
+SHA256: bdac4db22f0551e7d4ceeb8b2bca2dccd67228cef18c337abf417354f4c7ec3a
+SHA512: 96267e40c159491bcdcb3c756e0205449d890f765ef45f3f73fe1d0c6c92941bae3ec6a1cb8a03fc9655943ca5c3daccfc8f3eff7f14fc755002890c0b712a8b
+Homepage: https://git.xfce.org/xfce/libxfce4util/tree/README
+Description: The libxfce4util package is a basic utility library for the Xfce desktop environment.
+
+Package: thunar-dev
+Architecture: arm
+Version: 1.8.2
+Maintainer: lokesh @hax4us
+Installed-Size: 124
+Depends: thunar
+Filename: dists/x11/main/binary-arm/thunar-dev_1.8.2_arm.deb
+Size: 6688
+MD5sum: bc981b96f018b3d67ec955512f2aa450
+SHA1: a0cf2187e746ef9609e3a2f6374561724aca908f
+SHA256: d8d688e865b7055e685f41b48b701aa1965f8cb1b69bb8bf01dab5c7f5486004
+SHA512: 69c4a8c4545d2202ce000e895089c5f3f2df9f249a3f8ded8c440eefb3b07f67241228ffa607a23f9754fc8e7fa16ac3b34de28bd55b12ee72d53037ae7a94c7
+Homepage: http://thunar.xfce.org
+Description: Development files for thunar
+
+Package: xfdesktop
+Architecture: arm
+Version: 4.12.4
+Maintainer: lokesh @hax4us
+Installed-Size: 2712
+Depends: exo, libwnck, libxfce4ui, thunar, startup-notification
+Filename: dists/x11/main/binary-arm/xfdesktop_4.12.4_arm.deb
+Size: 715188
+MD5sum: 8fdc97eaac02c0b863bab7764be4dec9
+SHA1: cf06a21b54ac2810db65b1dd1ea4e3c75f630758
+SHA256: a2373c121d5df72ab95b95402445a83bf0f0c05445a29febf8f30f1a0826263f
+SHA512: 219720218abd73601d27bcd1479ab37821cfb3ac1b8b61724ba31fe6b9beb3da8fecb7c3413cdaefb81844ea18a31580d0b42fd19c0acaefdbda901bfc996eff
+Homepage: http://www.xfce.org/
+Description: A desktop manager for Xfce.
+
+Package: x11vnc
+Architecture: arm
+Version: 0.9.16
+Maintainer: lokesh @hax4us
+Installed-Size: 1884
+Depends: libandroid-shmem, libcairo-x, libxcursor, libxcomposite, libvncserver, libxtst, libxinerama, libxdamage, libxrandr
+Filename: dists/x11/main/binary-arm/x11vnc_0.9.16_arm.deb
+Size: 530464
+MD5sum: 102dc137cdf907f2f0dbc66bd5df4544
+SHA1: d0577f42609a639948e7948443728b056d78fe11
+SHA256: 9e9c0163a72e0a1dd51f4dd6069073279b9b95b2562f892eedc250d68b2aca0d
+SHA512: 2ffee3dc1875825aa0f6470b8238660ce2edc36ca2f2790c9b2ee6a352ce411d9461c264440d9c0df31d53a7320fee58d993bf926184f01a148603d85442fbb7
+Homepage: https://LibVNC.github.io
+Description: VNC server for real X displays.
+
+Package: libvncserver
+Architecture: arm
+Version: 0.9.12
+Maintainer: lokesh @hax4us
+Installed-Size: 384
+Depends: libpng, libjpeg-turbo, gnutls, libgcrypt, libsasl
+Filename: dists/x11/main/binary-arm/libvncserver_0.9.12_arm.deb
+Size: 150044
+MD5sum: 0625b9ed1f44bd73abd58afa3933695f
+SHA1: cdb897caabc6d365002d4e577f8b0f877664a775
+SHA256: 8153115282c9aff377919cc30091d6fd89568650f2e28e258ee9638a5a709fc1
+SHA512: 042e7648fb380b40e119234e006497d4910bf79c8197a51623c60500a33bf02d113ebf285031dc1a5ad426961f3493a1e22fac9a30abf4743879144c806acf96
+Homepage: https://LibVNC.github.io
+Description: VNC server for real X displays
+
+Package: exo
+Architecture: arm
+Version: 0.12.2
+Maintainer: lokesh @hax4us
+Installed-Size: 3060
+Depends: gtk3, libxfce4ui, libxfce4util, perl-uri
+Filename: dists/x11/main/binary-arm/exo_0.12.2_arm.deb
+Size: 381876
+MD5sum: 29aff9564ae3489931377f47c90f6acb
+SHA1: 78712960ef80d84e73e799697a89a67b3b358f3c
+SHA256: f7e99075fcec6d29edca4a79686ce94dcf16a1c50abdf471a6339e7ebf0ed887
+SHA512: ca7592a8a8152686d0687f93c779b27604dc004801e91a9496b74c8ed56ae80b1e4450f9c75ff4cbb056227b8427923d0176e56961bf3abcb64a63529b16ef15
+Homepage: http://www.xfce.org/
+Description: Exo is a support library used in the Xfce desktop. It also has some helper applications that are used throughout Xfce.
+
+Package: xorg-iceauth
+Architecture: arm
+Version: 1.0.8
+Maintainer: lokesh @hax4us
+Installed-Size: 72
+Depends: libice
+Filename: dists/x11/main/binary-arm/xorg-iceauth_1.0.8_arm.deb
+Size: 10756
+MD5sum: 2bbbfa17c7d42e0d65a64bceff1db6cf
+SHA1: 6360a12cb54f2df6be94568ff7bf189bf57a2c79
+SHA256: 578d638dcce4deb78ff2dc5ea25b11af1cbd5e66b02f4ba7aa3424b52a866643
+SHA512: 71934144c67d666b42e17ffe69209e5f6600c8cd8cb1e55a96f14879a0892ecad757e43433835b46d4393268b2c2fdd7ab165f415709edb53c28a91eabd68ec4
+Homepage: http://www.xfce.org/
+Description: ICE authority file utility.
+
+Package: xfconf-dev
+Architecture: arm
+Version: 4.12.1
+Maintainer: lokesh @hax4us
+Installed-Size: 80
+Depends: xfconf
+Filename: dists/x11/main/binary-arm/xfconf-dev_4.12.1_arm.deb
+Size: 3416
+MD5sum: 6705d50f37f95db77598cf8acbeda255
+SHA1: 41056b4256693a4dd8b61d33e8d3deb1ef46f95c
+SHA256: a49fd2795864cc0d4fb9b2606f946cd77b21a9e7d2c803eb28a27b0f278a2431
+SHA512: 987a4052baceac1649aa792178d11d25c6c61bb91a43fb92694b06bab0c4c053ff260b9f3701cb6af4c143e324bafab75122793b3e596914d365c2359cadae65
+Homepage: http://www.xfce.org/
+Description: Development files for xfconf
+
+Package: libxklavier
+Architecture: arm
+Version: 4.12.1
+Maintainer: lokesh @hax4us
+Installed-Size: 92
+Depends: glib, libxml2, iso-codes, xkeyboard-config, libxi
+Filename: dists/x11/main/binary-arm/libxklavier_4.12.1_arm.deb
+Size: 26204
+MD5sum: 0a792dd853a953c76860e5531e71eddc
+SHA1: 54e4f5504162e1988a40eade3c9b3a535a5fad3d
+SHA256: d07a1b0df2af28fb441e26566609689b28abc533993081e132d788719b494f3c
+SHA512: 99eff90558853a51c0fd246fad3995f0ed85719288b03fbc4f8d3e137c75e2f3e7682a434cd51c7ee66eaf4ef90ade9d2cb733cac348ff181ea9bb0d4a53ee37
+Homepage: http://www.xfce.org/
+Description: The libxfce4ui package contains GTK+ 2 widgets that are used by other Xfce applications.
+
+Package: libvncserver-dev
+Architecture: arm
+Version: 0.9.12
+Maintainer: lokesh @hax4us
+Installed-Size: 264
+Depends: libvncserver
+Filename: dists/x11/main/binary-arm/libvncserver-dev_0.9.12_arm.deb
+Size: 44752
+MD5sum: 94203b9c14b4c5520ff99dd02d635c92
+SHA1: 53354664164873b3ad7f8853896dfcf49d26b62d
+SHA256: a54e3f43862dd4eee6eb577b23e8a95a9f258d38a06fee8165c284724ac0501e
+SHA512: 006fa2f0e2e085d74583d7663cc4dd807788eaa75d81db66869be0b6b4db3bd2f8244899b361048fd6b9d50f62d027a4ecff3d3597643782100784b7c56d4234
+Homepage: https://LibVNC.github.io
+Description: Development files for libvncserver
+
+Package: iso-codes
+Architecture: arm
+Version: 4.1
+Maintainer: lokesh @hax4us
+Installed-Size: 2968
+Filename: dists/x11/main/binary-arm/iso-codes_4.1_arm.deb
+Size: 253852
+MD5sum: cb35c6bdc1ba6758d32c9dd78e933a33
+SHA1: 5498a2fc059fd1d661eb1051148f692fd0fc6a7b
+SHA256: 10b024d8d99d3d1962298b5bae3e78ab3cf30f4e51480ec6393576e9fdad8739
+SHA512: 3581b65aa5d6516fba083d73044b903fec026330099ce302aa4f47fe831afa0e9f4ebf1ca98ba0afed500d2ab21dd5c535310b03fa56a5a3f3c8815738629fa5
+Homepage: https://salsa.debian.org/iso-codes-team/iso-codes
+Description: Lists of the country, language, and currency names
+
+Package: xfce4-appfinder
+Architecture: arm
+Version: 4.12.0
+Maintainer: lokesh @hax4us
+Installed-Size: 1060
+Depends: garcon, libxfce4ui, hicolor-icon-theme
+Filename: dists/x11/main/binary-arm/xfce4-appfinder_4.12.0_arm.deb
+Size: 91556
+MD5sum: fe0d5b384be1063c6466be486ea26803
+SHA1: e246fbfa1a68713870c33c0b59c0d832c2802f9f
+SHA256: bb6e4cdf0b26936029319f09e922cea6dd8bfee4cc214d7e9875f51fad2a859c
+SHA512: 2cfdb80f2c406c8d2a4f5d8af7065e105f73d53d3c82f6f6acbeaf0f2fc8cb1235f2513470e908d489979da824fa386b4a8c7cbf593f49b37a4e615fec2d6a29
+Homepage: http://www.xfce.org/
+Description: An application finder for Xfce.
+
+Package: libdbus
+Architecture: arm
+Version: 1.12.10
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 720
+Depends: libexpat,libx11
+Filename: dists/x11/main/binary-arm/libdbus_1.12.10_arm.deb
+Size: 188748
+MD5sum: 217323e81f281d095ddaf52404acfcc6
+SHA1: 00e519795420033baf5dc957a8874d94e94e8d8b
+SHA256: 87551bf1851a23385fd9fa13e389be9b66482bc887e05645f89b086e97e10491
+SHA512: daaa7e8cf98802341a2782f0c7ed674b81391712f33e1fdb236393a00552e4487d5da3eddd9dbd877b49dc830a5fc8dce1e861021076c38d680d5d082d67f7d2
+Homepage: https://www.freedesktop.org/wiki/Software/dbus
+Description: FIXME:Add description
+
+Package: perl-uri
+Architecture: arm
+Version: 1.76
+Maintainer: lokesh @hax4us
+Installed-Size: 160
+Depends: perl
+Filename: dists/x11/main/binary-arm/perl-uri_1.76_arm.deb
+Size: 20460
+MD5sum: fb3e22b62bfce91fb7023d49a892d4a2
+SHA1: 96c2f4e2bbf7e7dbd1cb59e34384115972bf0e7b
+SHA256: 49c1d99d8b0fd70f259a312a40b86e2085164ee90fe6d9e02ed0821ffb8926d0
+SHA512: fa136c3d23b6154771114ab01c3bafa2b711786f9807e67ade5c30be0a0e77660c27302dcd7203a20c1297ae8da8f56a85aa5b0c6ad7e4bb166c92686ecbf965
+Homepage: http://search.cpan.org/dist/URI/
+Description: Uniform Resource Identifiers (absolute and relative
+
+Package: xfce4-settings
+Architecture: arm
+Version: 4.12.4
+Maintainer: lokesh @hax4us
+Installed-Size: 3120
+Depends: exo, garcon, libxfce4ui, libnotify, libxklavier, lxde-icon-theme
+Filename: dists/x11/main/binary-arm/xfce4-settings_4.12.4_arm.deb
+Size: 446956
+MD5sum: c72786973f2ebf79469670c78da26699
+SHA1: e94275895422b3b7a0cb0f195ab2c406756f1791
+SHA256: c1a9c0f5b6c71bde51fdefafd56a1e0b18db93bdd7b60e1108c095ed90cfc332
+SHA512: 178dfe11e4a0dc0c79daa5a1f9b97fe94d49c9d93e37a6654c7e25e063f76a64b53cc806cc6ced70c8cd59c05326dc38f6b2c8d740928c2376e7babbe1a67a52
+Homepage: http://www.xfce.org/
+Description: Settings manager for xfce.
+
+Package: libxfce4util-dev
+Architecture: arm
+Version: 4.12.1
+Maintainer: lokesh @hax4us
+Installed-Size: 108
+Depends: libxfce4util
+Filename: dists/x11/main/binary-arm/libxfce4util-dev_4.12.1_arm.deb
+Size: 5480
+MD5sum: 274acefc0d17bb9794ffe886d00e3c8f
+SHA1: eb3849123c358c9342e550b6cf832796b6ddaa09
+SHA256: 1c741c96efa5c5bfdca095fc7e3f7a9e5a1fb8e2d8366de3c65167da0391b2a5
+SHA512: 7b26e307745bf56a9878a5b3f9f69460e8e2c5c5afb574a8093ac900bd59cb1ee5409f2a3cefccc0be8a5974259da4f06931d00f22fa8ae22a9f58a3a6643348
+Homepage: https://git.xfce.org/xfce/libxfce4util/tree/README
+Description: Development files for libxfce4util
+
+Package: xfce4-panel
+Architecture: arm
+Version: 4.12.2
+Maintainer: lokesh @hax4us
+Installed-Size: 3628
+Depends: exo, garcon, libwnck, libxfce4ui
+Filename: dists/x11/main/binary-arm/xfce4-panel_4.12.2_arm.deb
+Size: 508148
+MD5sum: c2de158dd74293762581d578a0667cbc
+SHA1: 707acf77efb5c276f0882c42130f967db135b743
+SHA256: 7b009a26c677b5d42a9cd0f3581abc4fdfbecd68573ce9d0736c2a925776b743
+SHA512: d488659b3774095444ee114b94b90a3e954e51765c78cafa8e7fe53703e71cd5d7b8ba4309dac25922284a96244be8c242fb96b4f64d4cf6df468b64095e190c
+Homepage: http://www.xfce.org/
+Description: The Xfce4 Panel package contains the Xfce4 Panel.
+
+Package: garcon
+Architecture: arm
+Version: 0.6.2
+Maintainer: lokesh @hax4us
+Installed-Size: 1004
+Depends: libxfce4ui
+Filename: dists/x11/main/binary-arm/garcon_0.6.2_arm.deb
+Size: 76632
+MD5sum: 1d47881348e38aa3489dae93a1faf211
+SHA1: 2546826ead83c1e19b142759256664483e60c0ef
+SHA256: b2f56d83e7fd035541dbd3aedf41583a9ffe97a5347bfc47ea2e56cfe46ceebf
+SHA512: f242b7dce4e3db5d68035417d01b2d3ea401e0d324437be06613211ee0b74f019dde079ad80cc95bc0bb64459a913c85199219767fe4ad6020cce9006cbe5e48
+Homepage: http://wiki.xfce.org/dev/garcon
+Description: Freedesktop.org compliant menu library
+
+Package: libdbus-dev
+Architecture: arm
+Version: 1.12.10
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 212
+Depends: libdbus
+Filename: dists/x11/main/binary-arm/libdbus-dev_1.12.10_arm.deb
+Size: 21284
+MD5sum: 736dd0865ed27924b43826e3fdf005a4
+SHA1: 6bee1d38b43ddc75713e05dec731176ecb8b92fc
+SHA256: d9555d5a942ebe0d9979b7d7347e7a25ee4e32350489917f0448687edda40ed2
+SHA512: 64bc498a2b417fdfc12f208be1a70a67d9cf8e12e60c390c5790373fa526234e40422d77d49911c32ef3516c456b008a4819c1673b1685e9838df5d2a0aa3d6a
+Homepage: https://www.freedesktop.org/wiki/Software/dbus
+Description: Development files for libdbus
+
+Package: thunar
+Architecture: arm
+Version: 1.8.2
+Maintainer: lokesh @hax4us
+Installed-Size: 6004
+Depends: libxfce4ui, exo, hicolor-icon-theme, libexif, libnotify, libpng
+Filename: dists/x11/main/binary-arm/thunar_1.8.2_arm.deb
+Size: 946068
+MD5sum: 3c3540b45a8ee736017c197029e52f93
+SHA1: 8a4491d83b28a713d3f61f1722a1cba00d03ef3f
+SHA256: 022019ebb9c057ebe6f057a4322467ac74181caca7bc5fcdbd3e08570e98ec4b
+SHA512: 01280d6ecd3432c67e380fd4d7e5c260ec675d17520b9a2c919f92356288d8c243906c08f4eefab369c5b69cf174e56cf7c7cfc4f0637c0a0cce681a662222ce
+Homepage: http://thunar.xfce.org
+Description: Modern file manager for Xfce
+
+Package: libxfce4ui
+Architecture: arm
+Version: 4.12.1
+Maintainer: lokesh @hax4us
+Installed-Size: 1728
+Depends: xfconf, gtk2, gtk3, startup-notification
+Filename: dists/x11/main/binary-arm/libxfce4ui_4.12.1_arm.deb
+Size: 185020
+MD5sum: 94b1367caa4b9ff9510819c6117de562
+SHA1: 311a4d36c2112c10bf1963ac1f2787159be209fc
+SHA256: 5ed20c185b509d62980e0c0ee7ab497c708964226cfb9746ee4129b7a8132e8e
+SHA512: 4fc1583eda36fe5ee1e08e327088684cd53408510cacc2700544eaede85df842d9dbb1a241bb898e713105c0e2aba335d4ecf8b5a025d3629ad14460357a19c7
+Homepage: http://www.xfce.org/
+Description: The libxfce4ui package contains GTK+ 2 widgets that are used by other Xfce applications.
+
+Package: dbus-glib-dev
+Architecture: arm
+Version: 0.110
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 84
+Depends: dbus-glib
+Filename: dists/x11/main/binary-arm/dbus-glib-dev_0.110_arm.deb
+Size: 5784
+MD5sum: c68953589076ccee633e2ae8846d2996
+SHA1: a04b5096392c8343f1189cdf17c3a47abe661c6a
+SHA256: d34fb62d04c0ee08baea507bdcb2c3eb5c667c96650de8e351c393c07a344e8a
+SHA512: cc9e9c60596cb9cacba883112fe96ea6711a98211ef4e054f04dfac7a9f86eb9825e68ea9e86a87680cdb704c8270e0145bd5f75fdc99cac63e62875c8a20f74
+Homepage: https://www.freedesktop.org/wiki/Software/DBusBindings
+Description: Development files for dbus-glib
+
+Package: xorg-xrdb
+Architecture: arm
+Version: 1.1.1
+Maintainer: lokesh @hax4us
+Installed-Size: 76
+Depends: libx11, libxmu
+Filename: dists/x11/main/binary-arm/xorg-xrdb_1.1.1_arm.deb
+Size: 16440
+MD5sum: 820ba13e86c6e5e59413a43c78852e2e
+SHA1: 8f5a74b11c2ebc42403ac13d8bd075065538e71f
+SHA256: b7d343b7d452c997c08008d1e80d1170cbb594916fbefd3bd2ac1e9931ef796d
+SHA512: 3aec270c3c96310c976aac73d010480f490e72bf400c2b0e65d598155d8b52e0766c780da9886415f12931bc41a39b628f31623e0105226ccb0771f91f8cd4f3
+Homepage: https://xorg.freedesktop.org/
+Description: X server resource database utility.
+
+Package: xfconf
+Architecture: arm
+Version: 4.12.1
+Maintainer: lokesh @hax4us
+Installed-Size: 1084
+Depends: libxfce4util, dbus-glib
+Filename: dists/x11/main/binary-arm/xfconf_4.12.1_arm.deb
+Size: 103300
+MD5sum: 08d1418057176005f64d2a0033458674
+SHA1: 930a129539892ff3572c5d4a920a06ff12684c37
+SHA256: 56e35cb1e358ca6608112d2acfae7c3e2dfe02690393f068f8c6c0f418f25438
+SHA512: 0f02c59462108a5f8dd78f09606238d1bf5e3748a58e209d6f9f24c1d97569a30f4deeecb854dcfc329468e12a914f90ca491c555247bf3430afe3a2d45d1078
+Homepage: http://www.xfce.org/
+Description: simple client-server configuration storage and query system
+
+Package: xfce4-session-dev
+Architecture: arm
+Version: 4.12.1
+Maintainer: lokesh @hax4us
+Installed-Size: 60
+Depends: xfce4-session
+Filename: dists/x11/main/binary-arm/xfce4-session-dev_4.12.1_arm.deb
+Size: 2704
+MD5sum: e65c813e04248dc1c87136131d92c5fa
+SHA1: 6405f4e993181fc05eea0c9c8490d75eeb2a2ce8
+SHA256: c0ba08e9e707ef2af85db4add0db53e0f34ccf3c369c0540d61f020ce0e9126b
+SHA512: c724fdae440e71d5a77d9c4f20f23259d5b9029cb81c696cd3becd70c5b0c954766f22415a3f78990552652e3922a5d263c6301daf4e50f9bfc9672e737aaf17
+Homepage: http://www.xfce.org/
+Description: Development files for xfce4-session
+
+Package: libxklavier-dev
+Architecture: arm
+Version: 4.12.1
+Maintainer: lokesh @hax4us
+Installed-Size: 104
+Depends: libxklavier
+Filename: dists/x11/main/binary-arm/libxklavier-dev_4.12.1_arm.deb
+Size: 9508
+MD5sum: f3c201db95d85a6e72873147a0d0a2d4
+SHA1: 19e0155a3da306e85e0ebc6b5bb5739190be1af9
+SHA256: 5432fc69783f77a80831481990834f5c3346de1360cf116d081f132525732aa2
+SHA512: 4b2eed9cc67b4c12f356fbc526566759277b846538a2ffa0b6d5dd624189c6e6916210172532e4444218fa1bcb15b0fc12e89af3fd11eff9f75631fcf151b422
+Homepage: http://www.xfce.org/
+Description: Development files for libxklavier
+
+Package: garcon-dev
+Architecture: arm
+Version: 0.6.2
+Maintainer: lokesh @hax4us
+Installed-Size: 172
+Depends: garcon
+Filename: dists/x11/main/binary-arm/garcon-dev_0.6.2_arm.deb
+Size: 7312
+MD5sum: 2fb12d847b837e1c6cfa5a36399e44d1
+SHA1: b3d3694823e3c1f57f2a05e5ed2732d948433e4e
+SHA256: 12bcfa0a80fc1f52aa56fdf534c322b763120a6052613168b6beb31b3bc657d3
+SHA512: 79167ee3129664d5de7d906773b6229952ea6a328cf00ee127ca36139539258b7f27127c366e0c78ea7f41e8e54f24cca9a51b6844fbb1bad46d44c2a7087f1f
+Homepage: http://wiki.xfce.org/dev/garcon
+Description: Development files for garcon
+
