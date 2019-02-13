@@ -2,7 +2,10 @@
 it is unofficial repository maintained by me @hax4us. you can check available packages in README
 
 ### List Of Available Packages (aarch64, arm)
+#### x11-stable repo
 1. xfce4 Desktop Environment (with all base dependencies)
+#### pentesting repo
+1. beef-xss
 
 #### How To Add x11-stable Repo (for gui packages)
 1. Add new sources list file `mkdir -p $PREFIX/etc/apt/sources.list.d && printf "deb https://hax4us.github.io/termux-x/ x11-stable main" > $PREFIX/etc/apt/sources.list.d/hax4us_x11_stable.list`
