@@ -4,12 +4,12 @@ Hash: SHA256
 Architectures: all aarch64 arm i686 x86_64
 Codename: termux-x
 Components: x11-unstable main
-Date: Wed, 13 Feb 2019 06:40:03 +0000
+Date: Sat, 16 Feb 2019 07:40:58 +0000
 Label: Hax4Us's APT repository for Termux
 Origin: Termux Packages (X)
 Suite: unstable
 MD5Sum:
- 4152172fbce242ada082951daf35a01b              216 Release
+ d247b53b2b7ba6e19747987a0269b04e              216 Release
  d41d8cd98f00b204e9800998ecf8427e                0 main/binary-aarch64/Packages
  8dc5aea5b03dff8595f096f9e368e888               32 main/binary-aarch64/Packages.xz
  d41d8cd98f00b204e9800998ecf8427e                0 main/binary-all/Packages
@@ -21,7 +21,7 @@ MD5Sum:
  d41d8cd98f00b204e9800998ecf8427e                0 main/binary-x86_64/Packages
  8dc5aea5b03dff8595f096f9e368e888               32 main/binary-x86_64/Packages.xz
 SHA1:
- e75b6b4433493097fabd4d02b39ec59a7c6a24f4              216 Release
+ acefb6cf89da3fdee60a4321a0b243f91270e1c3              216 Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-aarch64/Packages
  9746882f4236fa1c3a8f86be2f1d9c46680c0b10               32 main/binary-aarch64/Packages.xz
  da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-all/Packages
@@ -33,7 +33,7 @@ SHA1:
  da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-x86_64/Packages
  9746882f4236fa1c3a8f86be2f1d9c46680c0b10               32 main/binary-x86_64/Packages.xz
 SHA256:
- c119b13ae7b21b49d25e3a5d516f9cecfecde4aebd1303a552de4d9578011ee2              216 Release
+ bd50b6d9fbc4e8ed402e39a36df4ff427ab70ab56b191e442f4d97668b4f1ad8              216 Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-aarch64/Packages
  0040f94d11d0039505328a90b2ff48968db873e9e7967307631bf40ef5679275               32 main/binary-aarch64/Packages.xz
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-all/Packages
@@ -45,7 +45,7 @@ SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-x86_64/Packages
  0040f94d11d0039505328a90b2ff48968db873e9e7967307631bf40ef5679275               32 main/binary-x86_64/Packages.xz
 SHA512:
- b8c47e23e000ccf64d0a30330e038c5280160c4c4a3b20fef1771f34a545fcfc3c3a2e73c78e21b82983028e170f95af228a4c089f1b913831667861fad66e77              216 Release
+ da1dcb33f4fa404a8638dc5c506c08936f6694bd76d9501daa9416d4ad2761103008747bd40e9168ffeb7b7af071e43a3f62fa25238e3d31e265341bcbab356b              216 Release
  cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-aarch64/Packages
  034b32f1138322638c7a5b7949a3b184c6a4cdfd003360a496c08c56c2cc645c94fbe9cdf9d84c963af6dda6c442717cd61d7e1cecf7024bd463f6f5196c5527               32 main/binary-aarch64/Packages.xz
  cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-all/Packages
@@ -58,12 +58,12 @@ SHA512:
  034b32f1138322638c7a5b7949a3b184c6a4cdfd003360a496c08c56c2cc645c94fbe9cdf9d84c963af6dda6c442717cd61d7e1cecf7024bd463f6f5196c5527               32 main/binary-x86_64/Packages.xz
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCAAdFiEE7Hj64Fg53LsPvmdhWhOhIfJdBvcFAlxju8MACgkQWhOhIfJd
-BvfC2gf/Ux9y6JuCqCGWXQo0Pq8ALPBw7X3KMCWBnufW7wNqNTIXbRGtMeKS+tuz
-xSKBniZdrkenoPWUqwyvdctqm+hVla3OCCarFH4sPJe52+BFLAvwqGZ4vA6pHT7Q
-/1bGmPSFNS3yK7QBbqjGTWWk4PnTK7wMbrURatEVOM9BxNCJew8iGDCKSQes1R2c
-bbApHDSiH86cvgWmofXNYEDqgpqJAP+I13wdfEa9ftwa9kTpiGJ6WZmi3YcDuBgF
-wR7XXGQEnaGcJTyOPeEQi2T3/lTzPXU02z5jp2J0MlWnAeFarI1rb/OpEHBlME5c
-gPGZM4lMsqYn+dURfYqadI0TpVQUbA==
-=gGNn
+iQEzBAEBCAAdFiEE7Hj64Fg53LsPvmdhWhOhIfJdBvcFAlxnvooACgkQWhOhIfJd
+BvecPQf+KkFUWQfzq4tON+KuJjbDhodjjvy/4NBQCMf4bVWiprSscw/mBC0Ft4nF
+DBiUGN5schUNJ6zV0MnKfEPfu3G8/RzIrcWz426iNG5eh55VZPLyFuoQesRpHrx8
+ieG902TAIuRfJwfdfcg5oYRfemTEg/k4WQ3fCJdtVzDp7V7NZQrBDA3XSwgm+9o8
+XJ+xaMLFc7ZC08quyVBP92b/8Z5whTncWLWVLLbDPwAXk7GAa0h37lknzt4wFUkR
+pheMsWr0wKD/SwxlGX7CJJLiIUnrhw29AI9/c3emYgrh7bp7WZw7ge/sFWm6VAk+
+AuI+YZ9D01dRfkYsAlTYIgyY2jnCxQ==
+=V//K
 -----END PGP SIGNATURE-----
