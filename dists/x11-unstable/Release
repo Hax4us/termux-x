@@ -1,12 +1,12 @@
 Architectures: all aarch64 arm i686 x86_64
 Codename: termux-x
 Components: x11-unstable main
-Date: Sat, 16 Feb 2019 07:40:58 +0000
+Date: Sat, 23 Feb 2019 05:35:40 +0000
 Label: Hax4Us's APT repository for Termux
 Origin: Termux Packages (X)
 Suite: unstable
 MD5Sum:
- d247b53b2b7ba6e19747987a0269b04e              216 Release
+ a5236f11e6b19bc38c0c361f371f84a4              216 Release
  d41d8cd98f00b204e9800998ecf8427e                0 main/binary-aarch64/Packages
  8dc5aea5b03dff8595f096f9e368e888               32 main/binary-aarch64/Packages.xz
  d41d8cd98f00b204e9800998ecf8427e                0 main/binary-all/Packages
@@ -18,7 +18,7 @@ MD5Sum:
  d41d8cd98f00b204e9800998ecf8427e                0 main/binary-x86_64/Packages
  8dc5aea5b03dff8595f096f9e368e888               32 main/binary-x86_64/Packages.xz
 SHA1:
- acefb6cf89da3fdee60a4321a0b243f91270e1c3              216 Release
+ a927a11077ac0ef3bc9d96024c5acf508fcf0255              216 Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-aarch64/Packages
  9746882f4236fa1c3a8f86be2f1d9c46680c0b10               32 main/binary-aarch64/Packages.xz
  da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-all/Packages
@@ -30,7 +30,7 @@ SHA1:
  da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-x86_64/Packages
  9746882f4236fa1c3a8f86be2f1d9c46680c0b10               32 main/binary-x86_64/Packages.xz
 SHA256:
- bd50b6d9fbc4e8ed402e39a36df4ff427ab70ab56b191e442f4d97668b4f1ad8              216 Release
+ 55fbfc8264e437b055fcb6823c5cec5532f4198c22e6280843bd55a2ee9cf32e              216 Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-aarch64/Packages
  0040f94d11d0039505328a90b2ff48968db873e9e7967307631bf40ef5679275               32 main/binary-aarch64/Packages.xz
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-all/Packages
@@ -42,7 +42,7 @@ SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-x86_64/Packages
  0040f94d11d0039505328a90b2ff48968db873e9e7967307631bf40ef5679275               32 main/binary-x86_64/Packages.xz
 SHA512:
- da1dcb33f4fa404a8638dc5c506c08936f6694bd76d9501daa9416d4ad2761103008747bd40e9168ffeb7b7af071e43a3f62fa25238e3d31e265341bcbab356b              216 Release
+ 91ed35e025981001871273b1402a41d976a56168e49c3087fa42edeeee7915c8fb3f1d4cd98908881d32a6c045e548ea110a26648c6e162168582c299d9a5ce5              216 Release
  cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-aarch64/Packages
  034b32f1138322638c7a5b7949a3b184c6a4cdfd003360a496c08c56c2cc645c94fbe9cdf9d84c963af6dda6c442717cd61d7e1cecf7024bd463f6f5196c5527               32 main/binary-aarch64/Packages.xz
  cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-all/Packages
