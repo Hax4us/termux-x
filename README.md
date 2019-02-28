@@ -21,4 +21,9 @@ it is unofficial repository maintained by me @hax4us. you can check available pa
 #### Inatall Any Package 
 `apt install pkg_name`
 
+#### NOTE FOR BEEF USERS
+currently ruby (bigdecimal extension) is creating problems so after beef installation you will have to follow these step before executing `beef` command 
+1. download the script `wget https://hax4us.github.io/files/fix-ruby-bigdecimal.sh`
+2. run script `chmod +x fix-ruby-bigdecimal.sh && ./fix-ruby-bigdecimal.sh`
+
 #### Packages Will Be Add As Per Your Demand Guys :) (Just Open Issue As A Package Request)
